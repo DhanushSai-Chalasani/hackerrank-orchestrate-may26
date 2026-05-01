@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openai
+scikit-learn
+numpy
+sentence-transformers
